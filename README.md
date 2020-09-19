@@ -1,4 +1,4 @@
-# CMPT 1105 String Format / Formatting A String
+# CMPT 1105 | String Format / Formatting A String
 
 In Python, you can `format` a string by putting the string as an argument inside `format` function.
 
